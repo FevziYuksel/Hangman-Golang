@@ -16,16 +16,16 @@ var dictionary = []string{
 	"almanya",
 }
 var states = []string{ //The adresses have to be changed
-	"C:\\Users\\Fevzi\\Desktop\\Local Resp\\Go\\hangman-game\\Hangman\\states\\hangman0",
-	"C:\\Users\\Fevzi\\Desktop\\Local Resp\\Go\\hangman-game\\Hangman\\states\\hangman1",
-	"C:\\Users\\Fevzi\\Desktop\\Local Resp\\Go\\hangman-game\\Hangman\\states\\hangman2",
-	"C:\\Users\\Fevzi\\Desktop\\Local Resp\\Go\\hangman-game\\Hangman\\states\\hangman3",
-	"C:\\Users\\Fevzi\\Desktop\\Local Resp\\Go\\hangman-game\\Hangman\\states\\hangman4",
-	"C:\\Users\\Fevzi\\Desktop\\Local Resp\\Go\\hangman-game\\Hangman\\states\\hangman5",
-	"C:\\Users\\Fevzi\\Desktop\\Local Resp\\Go\\hangman-game\\Hangman\\states\\hangman6",
-	"C:\\Users\\Fevzi\\Desktop\\Local Resp\\Go\\hangman-game\\Hangman\\states\\hangman7",
-	"C:\\Users\\Fevzi\\Desktop\\Local Resp\\Go\\hangman-game\\Hangman\\states\\hangman8",
-	"C:\\Users\\Fevzi\\Desktop\\Local Resp\\Go\\hangman-game\\Hangman\\states\\hangman9",
+	"./states/hangman0",
+	"./states/hangman1",
+	"./states/hangman2",
+	"./states/hangman3",
+	"./states/hangman4",
+	"./states/hangman5",
+	"./states/hangman6",
+	"./states/hangman7",
+	"./states/hangman8",
+	"./states/hangman9",
 }
 
 func main() {
